@@ -1,0 +1,30 @@
+C:\Users\DELL 15\Desktop\MortgageCalculator\MortgageCalculator\bin\Debug\net6.0-windows\MortgageCalculator.exe
+C:\Users\DELL 15\Desktop\MortgageCalculator\MortgageCalculator\bin\Debug\net6.0-windows\MortgageCalculator.deps.json
+C:\Users\DELL 15\Desktop\MortgageCalculator\MortgageCalculator\bin\Debug\net6.0-windows\MortgageCalculator.runtimeconfig.json
+C:\Users\DELL 15\Desktop\MortgageCalculator\MortgageCalculator\bin\Debug\net6.0-windows\MortgageCalculator.dll
+C:\Users\DELL 15\Desktop\MortgageCalculator\MortgageCalculator\bin\Debug\net6.0-windows\MortgageCalculator.pdb
+C:\Users\DELL 15\Desktop\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0-windows\MortgageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 15\Desktop\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0-windows\MortgageCalculator.AssemblyInfoInputs.cache
+C:\Users\DELL 15\Desktop\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0-windows\MortgageCalculator.AssemblyInfo.cs
+C:\Users\DELL 15\Desktop\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0-windows\MortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL 15\Desktop\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0-windows\MortgageCalculator.dll
+C:\Users\DELL 15\Desktop\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0-windows\refint\MortgageCalculator.dll
+C:\Users\DELL 15\Desktop\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0-windows\MortgageCalculator.pdb
+C:\Users\DELL 15\Desktop\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0-windows\MortgageCalculator.genruntimeconfig.cache
+C:\Users\DELL 15\Desktop\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0-windows\ref\MortgageCalculator.dll
+C:\Users\DELL 15\Desktop\22APP6134 Pathum Jayasundara\MortgageCalculator\bin\Debug\net6.0-windows\MortgageCalculator.exe
+C:\Users\DELL 15\Desktop\22APP6134 Pathum Jayasundara\MortgageCalculator\bin\Debug\net6.0-windows\MortgageCalculator.deps.json
+C:\Users\DELL 15\Desktop\22APP6134 Pathum Jayasundara\MortgageCalculator\bin\Debug\net6.0-windows\MortgageCalculator.runtimeconfig.json
+C:\Users\DELL 15\Desktop\22APP6134 Pathum Jayasundara\MortgageCalculator\bin\Debug\net6.0-windows\MortgageCalculator.dll
+C:\Users\DELL 15\Desktop\22APP6134 Pathum Jayasundara\MortgageCalculator\bin\Debug\net6.0-windows\MortgageCalculator.pdb
+C:\Users\DELL 15\Desktop\22APP6134 Pathum Jayasundara\MortgageCalculator\obj\Debug\net6.0-windows\MortgageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 15\Desktop\22APP6134 Pathum Jayasundara\MortgageCalculator\obj\Debug\net6.0-windows\MortgageCalculator.AssemblyInfoInputs.cache
+C:\Users\DELL 15\Desktop\22APP6134 Pathum Jayasundara\MortgageCalculator\obj\Debug\net6.0-windows\MortgageCalculator.AssemblyInfo.cs
+C:\Users\DELL 15\Desktop\22APP6134 Pathum Jayasundara\MortgageCalculator\obj\Debug\net6.0-windows\MortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL 15\Desktop\22APP6134 Pathum Jayasundara\MortgageCalculator\obj\Debug\net6.0-windows\MortgageCalculator.dll
+C:\Users\DELL 15\Desktop\22APP6134 Pathum Jayasundara\MortgageCalculator\obj\Debug\net6.0-windows\refint\MortgageCalculator.dll
+C:\Users\DELL 15\Desktop\22APP6134 Pathum Jayasundara\MortgageCalculator\obj\Debug\net6.0-windows\MortgageCalculator.pdb
+C:\Users\DELL 15\Desktop\22APP6134 Pathum Jayasundara\MortgageCalculator\obj\Debug\net6.0-windows\MortgageCalculator.genruntimeconfig.cache
+C:\Users\DELL 15\Desktop\22APP6134 Pathum Jayasundara\MortgageCalculator\obj\Debug\net6.0-windows\ref\MortgageCalculator.dll
+C:\Users\DELL 15\Desktop\22APP6134 Pathum Jayasundara\MortgageCalculator\obj\Debug\net6.0-windows\MortgageCalculator.Form2.resources
+C:\Users\DELL 15\Desktop\22APP6134 Pathum Jayasundara\MortgageCalculator\obj\Debug\net6.0-windows\MortgageCalculator.csproj.GenerateResource.cache
