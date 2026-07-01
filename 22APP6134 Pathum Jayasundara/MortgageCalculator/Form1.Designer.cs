@@ -31,7 +31,7 @@ namespace MortgageCalculator
             this.grpDuration.SuspendLayout();
             this.SuspendLayout();
 
-            // lblTitle
+       
             this.lblTitle.AutoSize = true;
             this.lblTitle.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold);
             this.lblTitle.Location = new System.Drawing.Point(12, 9);
@@ -39,7 +39,6 @@ namespace MortgageCalculator
             this.lblTitle.Size = new System.Drawing.Size(73, 15);
             this.lblTitle.Text = "ABC BANK";
 
-            // grpMortgage
             this.grpMortgage.Controls.Add(this.lblHomePrice);
             this.grpMortgage.Controls.Add(this.txtHomePrice);
             this.grpMortgage.Controls.Add(this.lblDownPayment);
