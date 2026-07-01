@@ -44,13 +44,13 @@ namespace MortgageCalculator
                 return;
             }
 
-            // Get duration
+           
             int years = 30;
             if (rb10Years.Checked) years = 10;
             else if (rb20Years.Checked) years = 20;
             else if (rb30Years.Checked) years = 30;
 
-            // Get interest rate
+            
             double interestRate = double.Parse(cmbInterestRate.SelectedItem.ToString().Replace("%", "")) / 100.0;
 
             // Perform calculation
