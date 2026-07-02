@@ -1,4 +1,4 @@
-namespace MortgageCalculator
+
 {
     partial class Form2
     {
